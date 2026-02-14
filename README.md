@@ -196,4 +196,8 @@ This project is built on a Modern Monolithic architecture designed for "Offline-
 **Built with ❤️ for Bharat 🇮🇳**
 *Submitted for AWS AI for Bharat Hackathon 2026*
 
+## 🛠️ Development Workflow (Proof of Kiro Usage)
+This architecture was architected using **Kiro**.
+![Kiro Workflow](./kiro_workflow_proof.png)
+
 </div>
