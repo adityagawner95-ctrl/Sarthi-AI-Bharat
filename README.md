@@ -59,7 +59,7 @@ A central **Holographic Orb** that pulses with life. It reacts to your voice, di
 
 ## 📂 Documentation Hub
 
-We have architected Sarthi.ai with industry-standard engineering practices. Explore our core documentation below:
+We have architected Sarathi.ai with industry-standard engineering practices. Explore our core documentation below:
 
 | Document | Description | Status |
 | :--- | :--- | :--- |
