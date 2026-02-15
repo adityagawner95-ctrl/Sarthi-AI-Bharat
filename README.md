@@ -1,6 +1,6 @@
 </div><div align="center">
 
-# 🇮🇳 SARTHI.AI (सारथी)
+# 🇮🇳 SARATHI.AI (सारथी)
 ### The Hyper-Local Agentic OS for Public Access
 *[Student Track] AI for Communities, Access & Public Impact*
 
@@ -26,7 +26,7 @@
 
 ## 🔮 Vision: The "Invisible" Interface
 
-**Sarthi.ai** is not just an app; it is a digital lifeline for the next billion users in India. Designed for semi-literate users in Tier-2/3 cities and rural villages, it replaces complex text menus with a human-like **Multimodal AI Agent**.
+**Sarathi.ai** is not just an app; it is a digital lifeline for the next billion users in India. Designed for semi-literate users in Tier-2/3 cities and rural villages, it replaces complex text menus with a human-like **Multimodal AI Agent**.
 
 * **Zero-UI Philosophy:** No typing. No reading. Just Speak, Scan, or Gesture.
 * **Bharat Cyberpunk Aesthetic:** A futuristic fusion of "Deep Saffron" warmth and "Cyber-Teal" trust, built for high-contrast visibility and trust.
@@ -36,12 +36,12 @@
 
 ## 🚀 Key Features
 
-### 👁️ Sarthi Drishti (Vision Mode)
+### 👁️ Sarathi Drishti (Vision Mode)
 > *Point. Scan. Solve.*
 An Augmented Reality (AR) scanner that identifies broken objects (routers, farm equipment) or crop diseases.
 * **Output:** Instant Voice Diagnosis + Step-by-Step Audio Guide + Embedded Hindi Video Tutorials.
 
-### 🤝 Sarthi Setu (Volunteer Bridge)
+### 🤝 Sarathi Setu (Volunteer Bridge)
 > *Community at the speed of light.*
 An "Uber-style" radar map connecting users to verified local volunteers.
 * **Features:** One-tap "Madad Bulao" (Call Help), Real-time Volunteer Tracking, and WhatsApp Integration.
@@ -87,8 +87,8 @@ This project is built on a Modern Monolithic architecture designed for "Offline-
 - [x] **Phase 1:** Concept & Architecture Design
 - [x] **Phase 2:** UI System ("Bharat Cyberpunk") Definition
 - [ ] **Phase 3:** Core "Pehchan" Biometric Auth
-- [ ] **Phase 4:** Sarthi Drishti (Vision) Prototype
-- [ ] **Phase 5:** Sarthi Setu (Maps) Integration
+- [ ] **Phase 4:** Sarathi Drishti (Vision) Prototype
+- [ ] **Phase 5:** Sarathi Setu (Maps) Integration
 
 ---
 
